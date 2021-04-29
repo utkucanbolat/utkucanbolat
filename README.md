@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utku Canbolat
-- 📫 utkucanbolat@gmail.com
+- 📫 You can reach me on utkucanbolat@gmail.com
 
 <!---
 utkucanbolat/utkucanbolat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
